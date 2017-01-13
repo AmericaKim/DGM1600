@@ -1,2 +1,2 @@
 # DGM1600
-Hello!
+Sun 1/1	40°/16°	0 IN	0 IN
