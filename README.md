@@ -1,4 +1,4 @@
-# DGM1600
+﻿# DGM1600
 # Provo Weather in JAN 2017
 Sun 1/1	40°/16°	0 IN	0 IN	
 
@@ -25,3 +25,4 @@ Wed 1/11	47°/35°	0.27 IN	0 IN
 Thu 1/12	44°/27°	0.21 IN	0.9 IN	Snow; rain mixing in, Tr-1"
 
 Fri 1/13	36°/17°	0 IN	0 IN	Clouds giving way to sun
+ ......
